@@ -27,6 +27,12 @@ The LFU algorithm manages the cache by removing the least frequently used item w
    - Enter "Q" to quit the program.
 4. The script will simulate the cache management algorithm based on the provided requests and cache size.
 5. The final state of the cache will be displayed.
+   
+## Notes
+
+- The cache size is set to 8 by default. You can modify the `cache_size` variable in the code to change it.
+- The script will continue to prompt for requests and preferences until you enter "Q" to quit the program.
+
 
 
 # Voting Rules and Preference Aggregation
